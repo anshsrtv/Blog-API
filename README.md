@@ -75,7 +75,11 @@ Set the database username and password for MySQL settings in config/database.yml
 rake db:create
 rails db:migrate  
 ```
-Run the server on the [localhost](http://127.0.0.1:3000/).
+Run the server on the [localhost](http://127.0.0.1:3000/) by the following commands:
+```
+export RAILS_ENV=production
+rails server
+```
 
 #### To run all the tests simulataneously, run:
 ```
