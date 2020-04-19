@@ -6,8 +6,9 @@ class CommentsController < ApplicationController
 
     def create
         @comment = @post.comments.new(comment_params)
-        @comment.save
-        redirect_to @post
+        if @comment.save
+            redirect_to @post
+        end
     end
 
     def edit
