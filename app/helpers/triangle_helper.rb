@@ -1,0 +1,2 @@
+module TriangleHelper
+end

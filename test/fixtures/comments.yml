@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: Ansh Srivastava
+  body: Rails is great to work on!
+  post: one
+
+two:
+  username: Nina Herasymchuk
+  body: Sports Compass is the best place to work in.
+  post: two

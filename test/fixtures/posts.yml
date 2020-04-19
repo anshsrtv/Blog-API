@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Hello Rails!
+  body:  Rails is a server-side web application framework written in Ruby under the MIT License.
+
+two:
+  title: Sports Compass 
+  body: Sport Compass offers digital solutions for sports bars and sports fans alike to support local businesses, strengthen communities, and enhance the sports bar experience.
