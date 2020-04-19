@@ -77,7 +77,6 @@ rails db:migrate
 ```
 Run the server on the [localhost](http://127.0.0.1:3000/) by the following commands:
 ```
-export RAILS_ENV=production
 rails server
 ```
 
